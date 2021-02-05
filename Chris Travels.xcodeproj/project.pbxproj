@@ -7,12 +7,30 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4152B12125CACCD6005B4F0A /* DataB.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4152B12025CACCD6005B4F0A /* DataB.swift */; };
+		4152B12625CACE5C005B4F0A /* Travel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4152B12525CACE5C005B4F0A /* Travel.swift */; };
+		4152B13125CAD178005B4F0A /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4152B13025CAD178005B4F0A /* HeaderView.swift */; };
+		415F20EF25CC4934006DAA97 /* packages-travels.json in Resources */ = {isa = PBXBuildFile; fileRef = 415F20EE25CC4934006DAA97 /* packages-travels.json */; };
+		415F20F425CC6236006DAA97 /* TravelPackage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 415F20F325CC6236006DAA97 /* TravelPackage.swift */; };
+		415F20FD25CC6354006DAA97 /* HighlightsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 415F20FC25CC6354006DAA97 /* HighlightsView.swift */; };
+		415F210525CC63A5006DAA97 /* TravelCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 415F210425CC63A5006DAA97 /* TravelCellView.swift */; };
+		415F210A25CC653B006DAA97 /* MyMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 415F210925CC653B006DAA97 /* MyMapView.swift */; };
+		415F211625CC6C65006DAA97 /* TravelPackageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 415F211525CC6C65006DAA97 /* TravelPackageView.swift */; };
+		415F212425CC8568006DAA97 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 415F212325CC8568006DAA97 /* Assets.xcassets */; };
+		415F212C25CCC727006DAA97 /* PackageSectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 415F212B25CCC727006DAA97 /* PackageSectionView.swift */; };
+		415F213225CCC90D006DAA97 /* TravelDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 415F213125CCC90D006DAA97 /* TravelDetailView.swift */; };
+		415F213A25CCCE66006DAA97 /* PackageListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 415F213925CCCE66006DAA97 /* PackageListView.swift */; };
 		417EE6C525CA059800FBD958 /* Chris_TravelsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 417EE6C425CA059800FBD958 /* Chris_TravelsApp.swift */; };
 		417EE6C725CA059800FBD958 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 417EE6C625CA059800FBD958 /* ContentView.swift */; };
-		417EE6C925CA059C00FBD958 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 417EE6C825CA059C00FBD958 /* Assets.xcassets */; };
 		417EE6CC25CA059C00FBD958 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 417EE6CB25CA059C00FBD958 /* Preview Assets.xcassets */; };
 		417EE6D725CA059D00FBD958 /* Chris_TravelsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 417EE6D625CA059D00FBD958 /* Chris_TravelsTests.swift */; };
 		417EE6E225CA059D00FBD958 /* Chris_TravelsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 417EE6E125CA059D00FBD958 /* Chris_TravelsUITests.swift */; };
+		417EE6F925CA067B00FBD958 /* img3.png in Resources */ = {isa = PBXBuildFile; fileRef = 417EE6F325CA067A00FBD958 /* img3.png */; };
+		417EE6FA25CA067B00FBD958 /* img2.png in Resources */ = {isa = PBXBuildFile; fileRef = 417EE6F425CA067A00FBD958 /* img2.png */; };
+		417EE6FB25CA067B00FBD958 /* img4.png in Resources */ = {isa = PBXBuildFile; fileRef = 417EE6F525CA067A00FBD958 /* img4.png */; };
+		417EE6FC25CA067B00FBD958 /* img5.png in Resources */ = {isa = PBXBuildFile; fileRef = 417EE6F625CA067A00FBD958 /* img5.png */; };
+		417EE6FD25CA067B00FBD958 /* travels.json in Resources */ = {isa = PBXBuildFile; fileRef = 417EE6F725CA067A00FBD958 /* travels.json */; };
+		417EE6FE25CA067B00FBD958 /* img1.png in Resources */ = {isa = PBXBuildFile; fileRef = 417EE6F825CA067B00FBD958 /* img1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -33,10 +51,22 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4152B12025CACCD6005B4F0A /* DataB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataB.swift; sourceTree = "<group>"; };
+		4152B12525CACE5C005B4F0A /* Travel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Travel.swift; sourceTree = "<group>"; };
+		4152B13025CAD178005B4F0A /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		415F20EE25CC4934006DAA97 /* packages-travels.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "packages-travels.json"; sourceTree = "<group>"; };
+		415F20F325CC6236006DAA97 /* TravelPackage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TravelPackage.swift; sourceTree = "<group>"; };
+		415F20FC25CC6354006DAA97 /* HighlightsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HighlightsView.swift; sourceTree = "<group>"; };
+		415F210425CC63A5006DAA97 /* TravelCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TravelCellView.swift; sourceTree = "<group>"; };
+		415F210925CC653B006DAA97 /* MyMapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyMapView.swift; sourceTree = "<group>"; };
+		415F211525CC6C65006DAA97 /* TravelPackageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TravelPackageView.swift; sourceTree = "<group>"; };
+		415F212325CC8568006DAA97 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../../../Downloads/swiftui-parte2-f839678402ba22eef19248d84b7e93ab719eced6/alura-viagens/Assets.xcassets"; sourceTree = "<group>"; };
+		415F212B25CCC727006DAA97 /* PackageSectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PackageSectionView.swift; sourceTree = "<group>"; };
+		415F213125CCC90D006DAA97 /* TravelDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TravelDetailView.swift; sourceTree = "<group>"; };
+		415F213925CCCE66006DAA97 /* PackageListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PackageListView.swift; sourceTree = "<group>"; };
 		417EE6C125CA059800FBD958 /* Chris Travels.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Chris Travels.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		417EE6C425CA059800FBD958 /* Chris_TravelsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chris_TravelsApp.swift; sourceTree = "<group>"; };
 		417EE6C625CA059800FBD958 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		417EE6C825CA059C00FBD958 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		417EE6CB25CA059C00FBD958 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		417EE6CD25CA059C00FBD958 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		417EE6D225CA059D00FBD958 /* Chris TravelsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Chris TravelsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -45,6 +75,12 @@
 		417EE6DD25CA059D00FBD958 /* Chris TravelsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Chris TravelsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		417EE6E125CA059D00FBD958 /* Chris_TravelsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chris_TravelsUITests.swift; sourceTree = "<group>"; };
 		417EE6E325CA059D00FBD958 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		417EE6F325CA067A00FBD958 /* img3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img3.png; sourceTree = "<group>"; };
+		417EE6F425CA067A00FBD958 /* img2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img2.png; sourceTree = "<group>"; };
+		417EE6F525CA067A00FBD958 /* img4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img4.png; sourceTree = "<group>"; };
+		417EE6F625CA067A00FBD958 /* img5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img5.png; sourceTree = "<group>"; };
+		417EE6F725CA067A00FBD958 /* travels.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = travels.json; sourceTree = "<group>"; };
+		417EE6F825CA067B00FBD958 /* img1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +108,45 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		414A656025CA0D3000FA6B29 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				4152B12025CACCD6005B4F0A /* DataB.swift */,
+				4152B12525CACE5C005B4F0A /* Travel.swift */,
+				415F20F325CC6236006DAA97 /* TravelPackage.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		415F20FB25CC62A0006DAA97 /* Highlights */ = {
+			isa = PBXGroup;
+			children = (
+				4152B13025CAD178005B4F0A /* HeaderView.swift */,
+				415F20FC25CC6354006DAA97 /* HighlightsView.swift */,
+				415F210425CC63A5006DAA97 /* TravelCellView.swift */,
+				415F210925CC653B006DAA97 /* MyMapView.swift */,
+			);
+			path = Highlights;
+			sourceTree = "<group>";
+		};
+		415F211425CC6C43006DAA97 /* Packages */ = {
+			isa = PBXGroup;
+			children = (
+				415F211525CC6C65006DAA97 /* TravelPackageView.swift */,
+				415F212B25CCC727006DAA97 /* PackageSectionView.swift */,
+				415F213925CCCE66006DAA97 /* PackageListView.swift */,
+			);
+			path = Packages;
+			sourceTree = "<group>";
+		};
+		415F213025CCC8DD006DAA97 /* Detail */ = {
+			isa = PBXGroup;
+			children = (
+				415F213125CCC90D006DAA97 /* TravelDetailView.swift */,
+			);
+			path = Detail;
+			sourceTree = "<group>";
+		};
 		417EE6B825CA059700FBD958 = {
 			isa = PBXGroup;
 			children = (
@@ -95,9 +170,11 @@
 		417EE6C325CA059800FBD958 /* Chris Travels */ = {
 			isa = PBXGroup;
 			children = (
+				414A656025CA0D3000FA6B29 /* Models */,
+				417EE6F225CA064B00FBD958 /* Resources */,
+				417EE70225CA068A00FBD958 /* Views */,
 				417EE6C425CA059800FBD958 /* Chris_TravelsApp.swift */,
-				417EE6C625CA059800FBD958 /* ContentView.swift */,
-				417EE6C825CA059C00FBD958 /* Assets.xcassets */,
+				415F212325CC8568006DAA97 /* Assets.xcassets */,
 				417EE6CD25CA059C00FBD958 /* Info.plist */,
 				417EE6CA25CA059C00FBD958 /* Preview Content */,
 			);
@@ -128,6 +205,31 @@
 				417EE6E325CA059D00FBD958 /* Info.plist */,
 			);
 			path = "Chris TravelsUITests";
+			sourceTree = "<group>";
+		};
+		417EE6F225CA064B00FBD958 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				417EE6F825CA067B00FBD958 /* img1.png */,
+				417EE6F425CA067A00FBD958 /* img2.png */,
+				417EE6F325CA067A00FBD958 /* img3.png */,
+				417EE6F525CA067A00FBD958 /* img4.png */,
+				417EE6F625CA067A00FBD958 /* img5.png */,
+				417EE6F725CA067A00FBD958 /* travels.json */,
+				415F20EE25CC4934006DAA97 /* packages-travels.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		417EE70225CA068A00FBD958 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				417EE6C625CA059800FBD958 /* ContentView.swift */,
+				415F20FB25CC62A0006DAA97 /* Highlights */,
+				415F211425CC6C43006DAA97 /* Packages */,
+				415F213025CCC8DD006DAA97 /* Detail */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -233,8 +335,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				415F20EF25CC4934006DAA97 /* packages-travels.json in Resources */,
 				417EE6CC25CA059C00FBD958 /* Preview Assets.xcassets in Resources */,
-				417EE6C925CA059C00FBD958 /* Assets.xcassets in Resources */,
+				417EE6FE25CA067B00FBD958 /* img1.png in Resources */,
+				417EE6FB25CA067B00FBD958 /* img4.png in Resources */,
+				415F212425CC8568006DAA97 /* Assets.xcassets in Resources */,
+				417EE6FA25CA067B00FBD958 /* img2.png in Resources */,
+				417EE6F925CA067B00FBD958 /* img3.png in Resources */,
+				417EE6FC25CA067B00FBD958 /* img5.png in Resources */,
+				417EE6FD25CA067B00FBD958 /* travels.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,8 +368,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				415F210525CC63A5006DAA97 /* TravelCellView.swift in Sources */,
+				4152B13125CAD178005B4F0A /* HeaderView.swift in Sources */,
 				417EE6C725CA059800FBD958 /* ContentView.swift in Sources */,
+				415F20FD25CC6354006DAA97 /* HighlightsView.swift in Sources */,
+				4152B12625CACE5C005B4F0A /* Travel.swift in Sources */,
+				415F20F425CC6236006DAA97 /* TravelPackage.swift in Sources */,
+				415F212C25CCC727006DAA97 /* PackageSectionView.swift in Sources */,
+				4152B12125CACCD6005B4F0A /* DataB.swift in Sources */,
+				415F210A25CC653B006DAA97 /* MyMapView.swift in Sources */,
+				415F213A25CCCE66006DAA97 /* PackageListView.swift in Sources */,
+				415F213225CCC90D006DAA97 /* TravelDetailView.swift in Sources */,
 				417EE6C525CA059800FBD958 /* Chris_TravelsApp.swift in Sources */,
+				415F211625CC6C65006DAA97 /* TravelPackageView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
